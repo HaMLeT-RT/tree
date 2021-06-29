@@ -1,0 +1,6 @@
+# IDEA config
+.idea/
+*.iml
+
+# Target
+target/
